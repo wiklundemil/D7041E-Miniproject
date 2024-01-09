@@ -5,6 +5,6 @@ Given images of handwritten digits from the MNIST dataset, the goal is to train 
 
 Link to dataset: https://www.tensorflow.org/datasets/catalog/mnist
 
-Link to youtube about the project:
+Link to youtube about the project: https://youtu.be/SAIMiBldLik
 
 
